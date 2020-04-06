@@ -2,19 +2,19 @@
 
 1. `bootstrap` :star:
 
-     网址： [https://getbootstrap.com/](https://getbootstrap.com/)
+     website： [https://getbootstrap.com/](https://getbootstrap.com/)
 
   
 
 2. `layui`  :star:
 
-      网址： [ https://www.layui.com/doc/ ]( https://www.layui.com/doc/ )
+      website： [ https://www.layui.com/doc/ ]( https://www.layui.com/doc/ )
 
 
 
 3. `element` :star: :yum:
 
-     网址： [ https://element.eleme.cn/ ](https://element.eleme.cn/)
+     website： [ https://element.eleme.cn/ ](https://element.eleme.cn/)
 
 
 
@@ -22,12 +22,12 @@
 
    - `ant design vue` 
 
-     网址： [ https://antdv.com/ ]( https://antdv.com/ )
+     website： [ https://antdv.com/ ]( https://antdv.com/ )
 
    - `ant design react`
 
-     网址： [  https://ant.design/docs/react/introduce-cn  ](  https://ant.design/docs/react/introduce-cn  )
+     website： [  https://ant.design/docs/react/introduce-cn  ](  https://ant.design/docs/react/introduce-cn  )
 
    - `ant design angular`
    
-     网址： [ https://ng.ant.design/docs/introduce/zh ]( https://ng.ant.design/docs/introduce/zh)
+     website： [ https://ng.ant.design/docs/introduce/zh ]( https://ng.ant.design/docs/introduce/zh)

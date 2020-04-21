@@ -36,10 +36,10 @@
 4. `React` :star: :yum:
    - official
    
-   website: [https://reactjs.org/](https://reactjs.org/)
+     website: [https://reactjs.org/](https://reactjs.org/)
    
    
 5. `Angular` :star: :yum:
    - official
    
-   website [https://angularjs.org/](https://angularjs.org/)
+     website [https://angularjs.org/](https://angularjs.org/)

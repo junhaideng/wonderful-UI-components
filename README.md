@@ -43,3 +43,19 @@
    - official
    
      website [https://angularjs.org/](https://angularjs.org/)
+
+
+##### Chart
+> If you want make a wonderful chart, the following options will be great
+
+- D3
+
+   website [https://d3js.org/](https://d3js.org/)
+
+- Echarts
+
+   website [https://www.echartsjs.com/en/index.html](https://www.echartsjs.com/en/index.html)
+
+- Antv :yum:
+
+   website [https://antv.vision/en](https://antv.vision/en)

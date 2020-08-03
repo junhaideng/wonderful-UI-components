@@ -44,6 +44,11 @@
    
      website [https://angularjs.org/](https://angularjs.org/)
 
+6. `uView` :star: :yum: 
+   - official
+   
+     website [https://uviewui.com/](https://uviewui.com/)
+   - 此为uni-app UI组件库
 
 ##### Chart
 > If you want make a wonderful chart, the following options will be great
